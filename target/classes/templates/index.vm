@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Demo</title>
+
+    <link href="/webjars/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet" media="screen"/>
+    <link href="css/demo.css" rel="stylesheet" media="screen"/>
+</head>
+<body>
+    #parse("_header.vm")
+
+    <div class="container">
+        <h1>List of trainees</h1>
+        <div class="row">
+            #foreach( $trainee in $trainees )
+                <div class="col-xs-6 col-md-4">
+                    <image src="images/$trainee.image" class="img-responsive" />
+                    <h2>$trainee.firstname $trainee.lastname</h2>
+                </div>
+            #end
+        </div>
+     </div>
+</body>
+</html>

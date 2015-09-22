@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/images/david.jpg" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/images/default.jpg" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/images/francis.jpg" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/images/jef.jpg" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/images/jente.jpg" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/images/jeroen.jpg" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/images/mathias.jpg" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/images/nick.jpg" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/images/pj.jpg" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/images/steven.jpg" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/images/thomas.jpg" charset="windows-1252" />
+  </component>
+</project>
